@@ -8,9 +8,10 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json.Converters;
 using Swashbuckle.AspNetCore.Filters;
-using WebApi.Models.Examples;
+using Swashbuckle.AspNetCore.Filters.Extensions;
+using WebApi30_Swashbuckle5.Models.Examples;
 
-namespace WebApi3._0_Swashbuckle5
+namespace WebApi30_Swashbuckle5
 {
     public class Startup
     {
