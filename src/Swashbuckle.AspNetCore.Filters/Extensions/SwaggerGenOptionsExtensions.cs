@@ -1,7 +1,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace Swashbuckle.AspNetCore.Filters
+namespace Swashbuckle.AspNetCore.Filters.Extensions
 {
     public static class SwaggerGenOptionsExtensions
     {
